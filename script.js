@@ -1,3 +1,1 @@
-function changeText() {
-	document.getElementById("text").innerText = "The text has been changed!";
-}
+// The script.js file is no longer needed for the updated resume page, so you can remove its contents or delete the file.
